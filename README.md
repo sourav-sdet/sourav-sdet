@@ -6,11 +6,10 @@ An aspiring Software Development Engineer- Test, currently working at Deloitte, 
 - 🌱 Rest API Development using SpringBoot, Javascript  
 <br>
 ## Connect with me
-<img align="left" alt="linked-in" src="https://img.shields.io/badge/Connect%3A-LinkedIn-blue" />
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/souravmishra436)
 <br>
 <br>
 ## Expertise
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/souravmishra436)
 <img align="left" alt="Selenium WebDriver" src="https://img.shields.io/badge/Selenium-WebDriver-brightgreen" />
 <img align="left" alt="AWS Certified Developer- Associate" src="https://img.shields.io/badge/AWS%20Certified%20Developer---Associate-blue" />
 <img align="left" alt="SOAP Web Services" src="https://img.shields.io/badge/SOAP-Web%20Services-blue" />
