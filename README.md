@@ -10,9 +10,9 @@ An aspiring Software Development Engineer- Test, currently working at Deloitte, 
 <br>
 <br>
 ## Expertise
-<img align="left" alt="Selenium WebDriver" src="https://img.shields.io/badge/Selenium-WebDriver-brightgreen" />
+<img align="left" alt="Selenium WebDriver" src="https://img.shields.io/badge/Selenium-WebDriver-blue" />
 <img align="left" alt="AWS Certified Developer- Associate" src="https://img.shields.io/badge/AWS%20Certified%20Developer---Associate-blue" />
 <img align="left" alt="SOAP Web Services" src="https://img.shields.io/badge/SOAP-Web%20Services-blue" />
-<img align="left" alt="Rest API-Postman Rest Assured DSL" src="https://img.shields.io/badge/Rest%20API--Postman-Rest%20Assured%20DSL-brightgreen" />
+<img align="left" alt="Rest API-Postman Rest Assured DSL" src="https://img.shields.io/badge/Rest%20API--Postman-Rest%20Assured%20DSL-blue" />
 <br>
 <br>
